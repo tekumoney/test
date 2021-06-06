@@ -1,0 +1,27 @@
+#submit_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sort_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+#display_name_with_comma{
+    background-color: aqua;
+    border: 2px solid coral;
+    padding: 10px;
+    border-radius: 10px;
+    width: 50%;
+}
+#display_name_without_comma{
+    background-color: cyan;
+    border: 2px solid turquoise;
+    padding: 10px;
+    border-radius: 10px;
+    width: 50%;
+}
+input{
+    margin: 10px;
+    
+}
